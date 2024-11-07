@@ -8,13 +8,13 @@
 
     <p><strong>HTML</strong> se compone de etiquetas que se escriben entre los simbolos menor que y mayor que.</p>
 
-    <h2><strong>HISTORIA DE HTML</strong></h2>
+    <h2><strong><cite>HISTORIA DE HTML</cite></strong></h2>
 
     <p>Los inicios del lenguje <strong>HTML</strong> se remonta al año 1990, cuando <cite>Tim Berners-Lee</cite> creó la primera pagina web.</p>
 
     <h2>Versiones de <STROng>HTML</STROng></h2>
 
-    <p><cite>Tim Berners-Lee</cite>definió la primera versión de <strong>HTML</strong> en el año 1991.</p>
+    <p><cite>Tim Berners-Lee</cite> definió la primera versión de <strong>HTML</strong> en el año 1991.</p>
 
     <p>En la actualidad, la ultia versión de <strong>HTML</strong>es HTML5.</p>
 </head>
